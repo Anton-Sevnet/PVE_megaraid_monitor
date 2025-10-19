@@ -70,10 +70,10 @@ read_pve_config() {
             TO_EMAIL="$user_email"
         else
             echo "Предупреждение: не удалось найти email для пользователя $mailto_user, используем значение по умолчанию"
-            TO_EMAIL="info@alttechno.ru"
+            TO_EMAIL="admin@example.com"
         fi
     else
-        TO_EMAIL="info@alttechno.ru"
+        TO_EMAIL="admin@example.com"
     fi
     
     # Читаем дополнительных получателей (поле "mailto" может быть несколько строк)
