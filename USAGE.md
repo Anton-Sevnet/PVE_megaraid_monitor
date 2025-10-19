@@ -1,5 +1,13 @@
 # Инструкция по использованию RAID Monitor v2.1
 
+## Основано на проверенном решении
+
+Скрипт основан на хорошо отлаженном решении от [calomel.org](https://calomel.org/megacli_lsi_commands.html) и адаптирован для современных LSI MegaRAID контроллеров с использованием утилиты `storcli`.
+
+**Оригинальный скрипт:** [calomel.org lsi.sh](https://calomel.org/megacli_lsi_commands.html)  
+**Автор оригинального решения:** Calomel.org team  
+**Адаптация и улучшения:** Anton-Sevnet
+
 ## Новый функционал: Умные уведомления
 
 ### Как это работает
