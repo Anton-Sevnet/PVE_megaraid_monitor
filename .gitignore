@@ -19,3 +19,21 @@ test_*.sh
 # Системные файлы
 .DS_Store
 Thumbs.db
+
+# VS Code
+.vscode/
+
+# AppData
+AppData/
+
+# Node modules
+node_modules/
+
+# Windows
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
