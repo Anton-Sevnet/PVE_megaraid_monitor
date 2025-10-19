@@ -1,0 +1,21 @@
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Конфигурационные файлы с паролями
+raid_notification.conf
+raid_monitor_state.conf
+
+# SSH ключи
+*.ppk
+*.pem
+
+# Тестовые файлы
+test_*.sh
+
+# Системные файлы
+.DS_Store
+Thumbs.db

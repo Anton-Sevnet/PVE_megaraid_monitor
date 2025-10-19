@@ -1,0 +1,25 @@
+# Конфигурация для отправки уведомлений о состоянии RAID
+# Если этот файл не существует или неполный, используются настройки PVE
+
+# SMTP сервер
+SMTP_SERVER="smtp.yandex.ru"
+
+# Порт SMTP сервера (587 для STARTTLS, 465 для SSL)
+SMTP_PORT="587"
+
+# Логин для SMTP аутентификации
+SMTP_USER="your-email@yandex.ru"
+
+# Пароль приложения (НЕ основной пароль!)
+# Для Yandex: настройте пароль приложения в настройках безопасности
+SMTP_PASS="your-app-password"
+
+# Email отправителя
+FROM_EMAIL="your-email@yandex.ru"
+
+# Email получателя уведомлений
+TO_EMAIL="admin@yourdomain.com"
+
+# Дополнительные получатели (через запятую)
+# Пример: ADDITIONAL_RECIPIENTS="admin2@domain.com,admin3@domain.com"
+ADDITIONAL_RECIPIENTS=""
