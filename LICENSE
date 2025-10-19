@@ -1,0 +1,55 @@
+MIT License
+
+Copyright (c) 2025 Anton-Sevnet
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ДОПОЛНИТЕЛЬНЫЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ:
+
+1. ОБЯЗАТЕЛЬНАЯ ССЫЛКА НА ОРИГИНАЛ:
+   При использовании данного кода в любом проекте (коммерческом или некоммерческом)
+   ОБЯЗАТЕЛЬНО должна быть указана ссылка на оригинальный репозиторий:
+   https://github.com/Anton-Sevnet/PVE_megaraid_monitor
+
+2. ФОРМЫ ССЫЛОК:
+   Ссылка может быть представлена в следующих формах:
+   - В комментариях к коду
+   - В файле README проекта
+   - В документации
+   - В разделе "Credits" или "Acknowledgments"
+   - В заголовке файлов с кодом
+
+3. ЗАПРЕЩЕНО:
+   - Использование кода без указания ссылки на оригинальный репозиторий
+   - Удаление или изменение авторских комментариев
+   - Заявление о полном авторстве кода без указания источника
+
+4. НАРУШЕНИЕ УСЛОВИЙ:
+   Нарушение данных условий автоматически аннулирует лицензию MIT
+   и может повлечь за собой правовые последствия.
+
+5. КОНТАКТНАЯ ИНФОРМАЦИЯ:
+   При возникновении вопросов по использованию кода обращайтесь:
+   - GitHub: https://github.com/Anton-Sevnet
+   - Репозиторий: https://github.com/Anton-Sevnet/PVE_megaraid_monitor
+
+Настоящая лицензия является дополнением к стандартной лицензии MIT
+и не отменяет её основных положений.
